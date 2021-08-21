@@ -14,7 +14,7 @@
  cursor: pointer;
  transition: transform cursor 0.3s ease-in; 
  }
- button:hover{
+ .more-btn:hover{
  box-shadow: 6px 5px 17px 5px #C1C1C1;
  cursor:pointer;
  }

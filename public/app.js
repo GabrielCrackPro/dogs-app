@@ -21,7 +21,7 @@ dogContainer.innerHTML = `
 <div class="similar">
  <h3 class="text-capitalize text-center">Similar Images</h3>
 </div>
-<button class="btn btn-sm btn-dark more-btn">Learn More <i class="fas fa-paw"></i></button>
+<button class="more-btn btn btn-sm btn-dark more-btn">Learn More <i class="fas fa-paw"></i></button>
 `
 const moreBtn = document.querySelector('.more-btn')
 const similarDogsContainer = document.querySelector('.similar')
