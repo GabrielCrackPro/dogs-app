@@ -9,9 +9,14 @@
  margin-bottom: 5px;
  }
  .hover{
- transform: scale(1.5);
+ transform: scale(1.2);
+ box-shadow: 6px 5px 17px 5px #C1C1C1;
  cursor: pointer;
  transition: transform cursor 0.3s ease-in; 
+ }
+ button:hover{
+ box-shadow: 6px 5px 17px 5px #C1C1C1;
+ cursor:pointer;
  }
  
 
